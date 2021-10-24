@@ -1,173 +1,100 @@
-# On changes to the grading system
+My children's middle school has recently decided to change the way they grade. They have been delightfully transparent; they have provided a transcripted explainer video ([Appendix A](#Appendix-A:-Transcript-of-Video)) to the parents as well as citations to the sources, most notably _Grading for Equity_ ([Appendix B](#Appendix-B:-Grading-for-Equity)) that have most influenced their thinking. 
 
-My child's middle school has recently decided to change the way they do grading. To their credit they have been delightfully transparent; they have provided a transcripted video to the parents as well as citations to the books and articles that have most influenced their thinking. 
+I agree with many of the changes. Others, though they give me pause, I judge best left to the teacher's discretion. There is only one clearly objectionable element: the proposed in grading scale. 
 
-Much of the changes are, I believe, good. Some are bad. The purpose of this paper is to detail my dissent such that I may be corrected where I am wrong and affect change where I am correct.
+In this paper I outline both my questions and criticisms. First, the scale itself:
 
-This paper begins with a marked up version of the transcript from the video the teachers sent out (henceforth _transcript_) where I highlight what I consider important and with what I dissent. I then elaborate on each point of dissent, and finish up with an example of the grading systems under consideration.
+![0-4_scale.jpg](0-4_scale.jpg)
 
-[link](#Benefits-of-the-four-point-scale)
+![scale_comparison.jpg](scale_comparison.jpg)
 
-# Transcript of _Grading Practices_ Video
+# Clarifying questions
 
-Below is the _transcript_ of the video the school put together to explain the new grading system. I've removed names and lightly edited for clarity. **<mark>important statements are highlighted in yellow</mark>**. **<mark style="background-color: #f9987c">statements that I deal with in this paper are highlighted  in red</mark>**
+As I write this I am still collecting facts to determine if a problem even exists. To that end, I want to lay out some questions I have so they can be explicitly answered.
 
-## Intro
-> The teachers have spent a year and a half meeting, collaborating, reading the book **<mark>Grading for Equity by Joe Feldman</mark>**, and discussing the most effective ways to communicate about students’ academic growth and student achievement.  These same conversations are happening in districts throughout the country because educators feel an obligation to ensure that our grading practices are as **<mark>equitable, accurate, bias-resistant, and motivating</mark>** as possible for our students. I’m incredibly proud of the middle school team and all of the work that they have put into looking very carefully at how we apply grades to student achievement and really making sure that we’re focusing on skill proficiency and taking the whole child into consideration.  Take care.  We’ll talk to you soon. 
+## What ar the boundaries  on the 0-4 scale?
 
 
-## Purpose and philosophy of grades
+Looking at the scale above I see the following bins in the 0-4 scale
 
-> The purpose of a grade is to provide information about how well a student is understanding and applying the content and skills in a subject after they’ve had a chance to learn and practice.
+- 0.00 to 0.80 = `F`
+- 0.80 to 1.60 = `D`
+- 1.60 to 2.40 = `C`
+- 2.40 to 3.20 = `B`
+- 3.20 to 4.00 = `A`
+
+I understand that individual work will be communicated integers (as noted below). Still, I see decimals as an unavoidable step in two cases:
+
+1.  In grading the performance work itself
+2.  In calclulating the term grade.
+
+
+### Decimals in grading the performance work itself
+
+In the first case if a rubric has a total of, say, `11` points and a student gets `8` of them, is not that students percentage `8`/`11` = `72.72%`? Is it not this number which will be mapped against the scale to determine that the grade book will show a `B`?
+
+### Decimals in calculating the final term grade
+
+In the second case, the example _happens_ to come out to a clean integer.
+
+> In order to determine the letter grade that will appear on a child’s report card, scores on performance work throughout a term will be added together and divided by the number of scores included to find an average letter grade equivalency.
 >
-> We want our grading practices to be <mark>**equitable, accurate, bias-resistant, and motivating**</mark> for students. Grades should accurately reflect a student’s academic level of performance, exclude nonacademic criteria such as behavior, and use mathematically sound calculations and scales. 
->
-> **<mark>Our grading practices seek to counteract institutional biases and protect student grades from implicit bias</mark>** as well. Our grading practices should be motivating for students — showing them the connection between the means of learning and the ends — how doing classwork and homework is valuable not because of how many points it results in, but because that practice leads to learning.
-
-## Practice work and performance work
-
-> Students will engage in <mark>**two kinds of work in each course — _practice work_ and _performance work_.**</mark>
->
-> <mark>**_Practice work_ — such as classwork and homework**</mark> — is essential because it helps learners improve their understanding of content and their ability to perform skills more accurately, independently, and automatically. It also provides learners with opportunities to self-assess their current understanding and skill.  
->
-> <mark>**_Performance work_ — such as tests, quizzes, essays, projects, presentations**</mark> — is a time for students to demonstrate the proficiency they have achieved as a result of their practice.  The goal of performance work is for students to show how well they understand and can apply the content and skills that they’ve been practicing.  <mark>**A student’s grade for the term will be based mostly on how well they do on performance work. Teachers will typically share rubrics to show students what’s expected on performance work and will use the rubrics to provide feedback and score the work.**</mark>
-
-## The four-point scale
-
-> <mark>**In order to provide feedback about a student’s current level of achievement on performance work, we are using a 4 point scale.**</mark>  You might notice that this scale is similar to the scale used to provide feedback on our K-5 report cards and similar to the 4 point scales used to determine Grade Point Averages in high schools and colleges. **<mark style="background-color: #f9987c">And while we will still be using letter grades on middle school report cards, we will be using the 4 point scale to provide feedback on each individual piece of performance work.</mark>**
->    
-> At the middle school level, the <marK>**4 numbers indicate the following levels of achievement:**</mark>  
-    > 
-> - <marK style="background-color: #f9987c">**`4` indicates _Distinguished_ or A level achievement;**</mark>
-> - <marK style="background-color: #f9987c">**`3` indicates _Proficient_ or B level achievement;**</mark>
-> - <marK style="background-color: #f9987c">**`2` indicates _Developing_ or C level achievement;**</mark>
-> - <marK style="background-color: #f9987c">**`1` indicates _Beginning_ or D level achievement,**</mark>
-> - <marK style="background-color: #f9987c">**`0` will indicate that there is not enough evidence by which to evaluate student achievement.**</mark>
-
-<mark>**All performance work will be scored using this scale.**</mark>
-
-### Benefits of the four-point scale
-
-> There are several benefits to using a 4 point scale instead of the traditional 100-point scale:
-> 
-> For one, <mark style="background-color: #f9987c">**the traditional 100-point scales include 60 point values that equate with failure. That imbalance implies that failure is more expected than not.**</mark>.
-> 
-> <mark>**Another flaw of the 100-point scale is that if a zero is factored in, the average is brought so low that it’s mathematically difficult — if not impossible — to bring it back up to a passing grade.**</mark>
-> 
-> A 4 point scale evens out the emphasis on each letter grade and eliminates the devastating impact of a zero.  Also, <mark style="background-color: #f9987c">**a 4 point scale can help shift student’s perception away from the idea that the goal of course work is to accrue points**</mark> rather than to practice, grow, and get helpful feedback on their skills and understandings.
-
-## Canvas
-
-### How _practice_ and _performance_ work are shown on Canvas
-
-> <mark>**Practice work — such as classwork and homework**</mark> — will be tracked in Canvas so that students and caregivers can see how practice supports the student’s ability to do well on performance work. But practice work <mark>onlys counts minimally — 1% — toward a student’s overall grade.</mark>  
->
-> <mark>**Performance work is tracked in a separate category that counts as 99% of the total grade.**</mark>  Both categories — practice and performance — as well as the total overall grade — will be shown as both a percentage and as a letter grade or a proficiency descriptor.   <mark>**The problem is that the percentages that appear in Canvas do not align or match up with the traditional grading system.  So, we suggest that students and parents ignore any percentages they see in Canvas and instead focus on the letter grades such as A, B, C, etc.**</mark>
->
-> So, in the example [not]shown here, the average as shown with a percentage — 68% — should be ignored.  The letter grade — a B minus — is an accurate representation of the student’s current achievement in the course. 
-
-### Caregiver access
-
->Caregivers can sign on to be observers on their child’s Canvas courses.  Directions for how to do so can be found on the PSB Student and Family Tech Support Page seen here.  You can reach this page by going to:_link_ and scrolling to the bottom of the page. 
->
->Once a caregiver has created an account, they will be able to view the list of their child’s classes and see assignments within each class, including the due date and instructions.  Caregivers are also able to view their child's submission history, missing assignments, teacher feedback, and grades.
-
-## Standards-based grades that reflect content proficiency
-> <mark>**Grades on student work and on report cards will only reflect the level of proficiency a student has achieved**</mark> with regard to the course’s standards.  The practice of including other kinds of information in the grade creates ambiguity and invites bias. For example, <mark>**when we include a judgement of a student’s effort or behavior in a grade, we’re imposing a narrow idea of what good behavior looks like or of how a “successful” student behaves. And when we include work completion in the grade, we are assessing compliance rather than proficiency.  Including these kinds of factors in a grade also creates ambiguity so that it becomes unclear what the grade is trying to communicate.**</mark>
-
-> For these reasons, what a teacher may perceive <mark>**regarding a student’s participation, effort, and behavior**</mark> will not be assessed with a score or reflected in the grade, but rather <mark>**teachers will communicate when necessary**</mark> about students’ classroom experiences and work completion through verbal and/or written communication with students and caregivers as needed.  And remember, caregivers can view their child’s work submission in Canvas to stay informed about work completion.
-
-## Late work
-
-> <mark>**There will be no reduction in scores because work is late. Deducting points because work is late combines both academic and nonacademic information in the grade**</mark> and creates what author Susan Brookhart calls “grade fog” — we’re not sure what the grade means because we’re asking it to communicate too much unrelated information. For example, if a student who writes an A-quality essay but hands it in late gets her assignment downgraded to a B, and a student who writes a B-quality essay turned in by the deadline receives a B, then there’s nothing to distinguish those two B grades, although those students have very different levels of content mastery.  Therefore, work will typically be accepted late as long as the work is still relevant to what students are learning in class — for example during the current unit, and it’s still the same grading quarter during which it was assigned.
-
-## Practice and time management
-
-> Even though scores will not reflect the timeliness of work submission, <mark>**teachers will still communicate deadlines and due dates for assignments and expect students to meet those timelines whenever possible.**</mark>  Teachers will communicate with students and caregivers if there is a concern about a student not completing their work in a timely manner. <mark>**Additionally, teachers will frequently emphasize the connection between practice and performance.**</mark>
-
-## Retakes, redos, and revisions
-
-> <mark>**Most of the time, if a student is not satisfied with their score on performance work, they will have an opportunity to try again through a retake, redo, or revision.  In fact, teachers will expect students to do a retake, redo, or revision if they do not do well on performance work.  Before a second attempt, students will need to engage in additional practice and/or receive teacher support to help them better understand the content/skills.  Teachers will factor the score from their highest level of performance with a skill — or skill set — toward the term grade.**</mark>
-
-## How term grades will be calculated
-
-> I teach seventh and eighth grade English Language Arts at Lawrence.  I’m going to talk about how term grades will be calculated, and review the grading practices we’ve outlined in this video.  
->
-> In order to determine the letter grade that will appear on a child’s report card, <mark>**scores on performance work throughout a term will be added together and divided by the number of scores included to find an average letter grade equivalency.**</mark>  
->
-> So, <mark style="background-color: #f9987c">**for example, if a student’s scores on performance work in a course during the term are `3`, `4`, `3`, `3`, `2`, and `3`, then the total of those scores - `18` - is divided by the number of scores - `6` - to arrive at the average of `3.0` which equates to a B.**</mark>
->
-> Canvas is set to calculate these averages and convert them to letter grades, and that information will be available to students and caregiver observers in Canvas after the first few weeks of each term — once there are enough grades to calculate a meaningful average.  
->
-> <mark style="background-color: #f9987c">**Notice that percentages and fractions are not relevant to our grading system.**</mark>  A 3 is simply a stand-in for a B or Proficient; it does not represent a 3 out of 4 possible points, which as a fraction would be a 75%. Again, Canvas has been set to interpret these scores as stand-ins for the letter grades and to calculate averages based on those equivalents rather than on fractions and percentages.  <mark>**Any fractions and percentages shown in Canvas should be ignored as only letter grades and proficiency descriptors will accurately represent a student’s achievement.**</mark>
-
-## Summary
-
-> So, to review,  the grading practices that we are using in the middle school grades at Lawrence include the following:
->
-> - A 4 point scale will be used — with each number representing a level of proficiency.
-> - Term grades will be based mostly on performance work rather than practice work.
-> - Practice work will be tracked in Canvas separately from performance work.
-> - Typically, late work will be accepted during the same unit and term it was assigned with no score reduction.
-> - Retakes, redos, and revisions of performances work will be allowed and sometimes even expected.
-> - Behaviors — such as participation, effort, and conduct — will not be reflected in the grade or assessed with a score, but rather teachers will communicate about a student’s classroom experiences and work completion through verbal and/or written communication as needed.
+> So, for example, if a student’s scores on performance work in a course during the term are `3`, `4`, `3`, `3`, `2`, and `3`, then the total of those scores - `18` - is divided by the number of scores - `6` - to arrive at the average of `3.0` which equates to a `B`.
 
 
-## References
+But if we change the grade set from:
 
-> The grading practices we are using in the middle school at Lawrence are based on the book _Grading for Equity_ by Joe Feldman.  
->
-> To read an article about these grading practices in Harvard’s Graduate School of Education magazine, search for: “[Grade Expectations: Why we need to rethink grading in our schools” by Lory Hough](https://www.gse.harvard.edu/news/ed/19/05/grade-exapectations).  To listen to a podcast, search for:  “Harvard EdCast: Grading for Equity”
->
->If you have a general question about these grading practices, please reach out to your child’s advisory teacher or [the] Principal.  If you have a course specific question, please reach out to the teacher of that course.  Our emails are _redacted_.
->
-> We hope this video was informative and useful.  The entire middle school faculty and administration is looking forward to a fantastic year of learning and joy with our students.  Thanks for watching!
+- `3`, `4`, `3`, `3`, `2`, `3`
 
+to 
 
+- `3`, `4`, `3`, `3`, `2`, `4`
 
+The average is now `19`/`6` = `3.1667`. Now there must be decimal precision at the limits of each grade.
+
+So I return to my point above; **are the bins I describe correct, or no?** In the sections that follow I assume that I am correct.
 
 
 # Points of dissent
 
 ## The 0-100 scale _IS NOT_ oriented toward failure
 
-In the _transcript_ this statement is made: 
->  The traditional 100-point scales include 60 point values that equate with failure. That imbalance implies that failure is more expected than not.
+From the _transcript_: 
+>  The traditional 100-point scales include 60 point values that equate with failure. That imbalance implies that failure is more expected than not. [link](#Benefits-of-the-0-4-scale)
 
-This appears to come _Grading for Equity_ in a section titled **The 0–100 Scale’s Orientation Toward Failure**
+This comes from _Grading for Equity_ in a section titled **The 0–100 Scale’s Orientation Toward Failure**
 
 > The first mathematical problem is that the scale is disproportionately weighted toward failure and therefore sends the message that failure is more likely than success.... Our scale allocates sixty of its 100 numbers (0–59) to the failure scale while only forty numbers (61–100) are allocated to passing. <mark>**What does this say to our students about learning and achievement? That we value failure over success—why else would we want to describe failure in sixty different ways but proficiency (B or above) in only twenty ways?**</mark>
 
 That this statement is written in the form of a question is telling.
 
-No, we do not "value failure over success". The 60 points in the failing range are a side-effect of the **fine resoluton we want at the higher level (more on this later)**. We make explicit their lesser importance when we apply eleven ordinal labels  (`A`,`A-`,`B+`,`B`,`B-`,`C+`,`C`,`C-`,`D+`,`D`,`D-`) to levels of success and only one (`F`) to failure.
+No, we do not "value failure over success". The 60 points in the failing range are a side-effect of the **fine resoluton we want at the higher level (more on this later)**. We make explicit their lesser importance in applying eleven ordinal labels  (`A`,`A-`,`B+`,`B`,`B-`,`C+`,`C`,`C-`,`D+`,`D`,`D-`) to levels of success and only one (`F`) to failure.
 
-That is not to say the 0-100 scale is without flaws. Feldman believes that:
+That is not to say the 0-100 scale is without flaws. Feldman is right when he says:
 
 > its real harm occurs when the 100-point percentage scale is applied to assignments across a term: It becomes nearly impossible for a student to overcome low grades.
 
-I agree. If a final grade is a tool to measure content mastery, an early `0` can render the tool less effective. For example, a `0` on one test followed by four `90`s yields a grade of `72`, which likely misrepresents the mastery of the student who just strung together four `A-`s.
+If a final grade is a tool to measure content mastery, an early `0` can render the tool less effective. For example, a `0` on one test followed by four `90`s yields a grade of `72`, which likely misrepresents the mastery of the student who just strung together four `A-`s.
 
-
-This criticism is valid, but it damns our blindness to the temporality of grades and our usual mode of grading missing work as a `0`, the latter of which is eloquently addressed by Feldman.
+This criticism is valid, but it targets the temporality of grades and the practice of mode of grading missing work as a `0`, the latter of which is eloquently addressed by Feldman.
 
 > when we assign missing work a score of zero; we don’t know what a student’s performance would be on that assignment, but because we don’t have the assignment... we record it as a performance of zero knowledge. Not having evidence of what a student knows isn’t the same as having evidence that she knows nothing!
 
 None of this damns the 0-100 scale itself. 
 
-## A four-point scale _DOES NOT_ shift student's perception away from the idea that the goal of course work is to accrue points
+## A 0-4 scale _DOES NOT_ shift student's perception away from the idea that the goal of course work is to accrue points
 
-In introducing the four point scale in the _transcript_ it's said that:
+In introducing the 0-4 scale in the _transcript_ it's said that:
 
 > In order to provide feedback about a student’s current level of achievement on performance work, we are using a 4 point scale... similar to the 4 point scales used to determine Grade Point Averages in high schools and colleges
 
 Most of the people likely to read this have been to colleges that use such a GPA scale, some for many years. I suspect it's a lonely few if any at all that would say that the GPA scale can, as stated later in the _transcript_: 
 
->  can help shift student’s perception away from the idea that the goal of course work is to accrue points
+>  help shift student’s perception away from the idea that the goal of course work is to accrue points
 
 I'll say no more about this.
 
-## A four-point scale DOES harm students
+## A 0-4 scale DOES harm students
 
 The 0-4 scale does three things.
 
@@ -214,17 +141,8 @@ Conspicously left out of the table are `1` (`Beginning`) and `2` (`Developing`).
 
 Feldman seems to advocate most strongly for a minimum grading scheme. I find little in it objectionable and nothing nearly so much as I do in the 0-4 scale. Was this considered and decided against or not considered at all?
 
-# Clarifying questions
+## Is a `1` or a `2` "passing"?
 
-## How Grades Will Be Calculated
-
-for example, if a student’s scores on performance work in a course during the term are 3, 4, 3, 3, 2, and 3, then the total of those scores - 18 - is divided by the number of scores - 6 - to arrive at the average of 3.0 which equates to a B.
-
-Canvas is set to calculate these averages and convert them to letter grades, and that information will be available to students and caregiver observers in Canvas after the first few weeks of each term — once there are enough grades to calculate a meaningful average.
-
-Notice that percentages and fractions are not relevant to our grading system. A 
-
-## Is a `1` or a `2` passing?
 
 # Example: A comparison of grading scales
 
@@ -261,7 +179,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -435,7 +353,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -629,7 +547,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -831,7 +749,7 @@ quiz_scores_zf
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -998,7 +916,7 @@ quiz_scores_zf
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1183,7 +1101,7 @@ quiz_scores_zf
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1373,7 +1291,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1596,7 +1514,7 @@ quiz_scores_m
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1762,7 +1680,7 @@ quiz_scores_m
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1952,7 +1870,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -2184,7 +2102,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -2399,29 +2317,6 @@ quiz_scores
 
 
 ```python
-
-plt.xlim=(0,1) #not working
-plt.ylim=(0,4) # not working
-plt.scatter(x=quiz_scores.mAvg.values,
-            y=quiz_scores.zfAvg.values,)
-
-```
-
-
-
-
-    <matplotlib.collections.PathCollection at 0x7f017558e370>
-
-
-
-
-    
-![png](output_47_1.png)
-    
-
-
-
-```python
 %%html
 <style>
 blockquote{
@@ -2439,7 +2334,127 @@ blockquote{
 
 
 
-# Appendix
+
+# Appendix A: Transcript of Video
+
+Below is the _transcript_ of the video the school put together to explain the new grading system. I've removed names and lightly edited for clarity. **<mark>important statements are highlighted in yellow</mark>**. **<mark style="background-color: #f9987c">statements that I deal with in this paper are highlighted  in red</mark>**
+
+## Intro
+> The teachers have spent a year and a half meeting, collaborating, reading the book **<mark>Grading for Equity by Joe Feldman</mark>**, and discussing the most effective ways to communicate about students’ academic growth and student achievement.  These same conversations are happening in districts throughout the country because educators feel an obligation to ensure that our grading practices are as **<mark>equitable, accurate, bias-resistant, and motivating</mark>** as possible for our students. I’m incredibly proud of the middle school team and all of the work that they have put into looking very carefully at how we apply grades to student achievement and really making sure that we’re focusing on skill proficiency and taking the whole child into consideration.  Take care.  We’ll talk to you soon. 
+
+
+## Purpose and philosophy of grades
+
+> The purpose of a grade is to provide information about how well a student is understanding and applying the content and skills in a subject after they’ve had a chance to learn and practice.
+>
+> We want our grading practices to be <mark>**equitable, accurate, bias-resistant, and motivating**</mark> for students. Grades should accurately reflect a student’s academic level of performance, exclude nonacademic criteria such as behavior, and use mathematically sound calculations and scales. 
+>
+> **<mark>Our grading practices seek to counteract institutional biases and protect student grades from implicit bias</mark>** as well. Our grading practices should be motivating for students — showing them the connection between the means of learning and the ends — how doing classwork and homework is valuable not because of how many points it results in, but because that practice leads to learning.
+
+## Practice work and performance work
+
+> Students will engage in <mark>**two kinds of work in each course — _practice work_ and _performance work_.**</mark>
+>
+> <mark>**_Practice work_ — such as classwork and homework**</mark> — is essential because it helps learners improve their understanding of content and their ability to perform skills more accurately, independently, and automatically. It also provides learners with opportunities to self-assess their current understanding and skill.  
+>
+> <mark>**_Performance work_ — such as tests, quizzes, essays, projects, presentations**</mark> — is a time for students to demonstrate the proficiency they have achieved as a result of their practice.  The goal of performance work is for students to show how well they understand and can apply the content and skills that they’ve been practicing.  <mark>**A student’s grade for the term will be based mostly on how well they do on performance work. Teachers will typically share rubrics to show students what’s expected on performance work and will use the rubrics to provide feedback and score the work.**</mark>
+
+## The 0-4 scale
+
+> <mark>**In order to provide feedback about a student’s current level of achievement on performance work, we are using a 4 point scale.**</mark>  You might notice that this scale is similar to the scale used to provide feedback on our K-5 report cards and similar to the 4 point scales used to determine Grade Point Averages in high schools and colleges. **<mark style="background-color: #f9987c">And while we will still be using letter grades on middle school report cards, we will be using the 4 point scale to provide feedback on each individual piece of performance work.</mark>**
+>    
+> At the middle school level, the <marK>**4 numbers indicate the following levels of achievement:**</mark>  
+    > 
+> - <marK style="background-color: #f9987c">**`4` indicates _Distinguished_ or A level achievement;**</mark>
+> - <marK style="background-color: #f9987c">**`3` indicates _Proficient_ or B level achievement;**</mark>
+> - <marK style="background-color: #f9987c">**`2` indicates _Developing_ or C level achievement;**</mark>
+> - <marK style="background-color: #f9987c">**`1` indicates _Beginning_ or D level achievement,**</mark>
+> - <marK style="background-color: #f9987c">**`0` will indicate that there is not enough evidence by which to evaluate student achievement.**</mark>
+
+<mark>**All performance work will be scored using this scale.**</mark>
+
+### Benefits of the 0-4 scale
+
+> There are several benefits to using a 4 point scale instead of the traditional 100-point scale:
+> 
+> For one, <mark style="background-color: #f9987c">**the traditional 100-point scales include 60 point values that equate with failure. That imbalance implies that failure is more expected than not.**</mark>.
+> 
+> <mark>**Another flaw of the 100-point scale is that if a zero is factored in, the average is brought so low that it’s mathematically difficult — if not impossible — to bring it back up to a passing grade.**</mark>
+> 
+> A 4 point scale evens out the emphasis on each letter grade and eliminates the devastating impact of a zero.  Also, <mark style="background-color: #f9987c">**a 4 point scale can help shift student’s perception away from the idea that the goal of course work is to accrue points**</mark> rather than to practice, grow, and get helpful feedback on their skills and understandings.
+
+## Canvas
+
+### How _practice_ and _performance_ work are shown on Canvas
+
+> <mark>**Practice work — such as classwork and homework**</mark> — will be tracked in Canvas so that students and caregivers can see how practice supports the student’s ability to do well on performance work. But practice work <mark>onlys counts minimally — 1% — toward a student’s overall grade.</mark>  
+>
+> <mark>**Performance work is tracked in a separate category that counts as 99% of the total grade.**</mark>  Both categories — practice and performance — as well as the total overall grade — will be shown as both a percentage and as a letter grade or a proficiency descriptor.   <mark>**The problem is that the percentages that appear in Canvas do not align or match up with the traditional grading system.  So, we suggest that students and parents ignore any percentages they see in Canvas and instead focus on the letter grades such as A, B, C, etc.**</mark>
+>
+> So, in the example [not]shown here, the average as shown with a percentage — 68% — should be ignored.  The letter grade — a B minus — is an accurate representation of the student’s current achievement in the course. 
+
+### Caregiver access
+
+>Caregivers can sign on to be observers on their child’s Canvas courses.  Directions for how to do so can be found on the PSB Student and Family Tech Support Page seen here.  You can reach this page by going to:_link_ and scrolling to the bottom of the page. 
+>
+>Once a caregiver has created an account, they will be able to view the list of their child’s classes and see assignments within each class, including the due date and instructions.  Caregivers are also able to view their child's submission history, missing assignments, teacher feedback, and grades.
+
+## Standards-based grades that reflect content proficiency
+> <mark>**Grades on student work and on report cards will only reflect the level of proficiency a student has achieved**</mark> with regard to the course’s standards.  The practice of including other kinds of information in the grade creates ambiguity and invites bias. For example, <mark>**when we include a judgement of a student’s effort or behavior in a grade, we’re imposing a narrow idea of what good behavior looks like or of how a “successful” student behaves. And when we include work completion in the grade, we are assessing compliance rather than proficiency.  Including these kinds of factors in a grade also creates ambiguity so that it becomes unclear what the grade is trying to communicate.**</mark>
+
+> For these reasons, what a teacher may perceive <mark>**regarding a student’s participation, effort, and behavior**</mark> will not be assessed with a score or reflected in the grade, but rather <mark>**teachers will communicate when necessary**</mark> about students’ classroom experiences and work completion through verbal and/or written communication with students and caregivers as needed.  And remember, caregivers can view their child’s work submission in Canvas to stay informed about work completion.
+
+## Late work
+
+> <mark>**There will be no reduction in scores because work is late. Deducting points because work is late combines both academic and nonacademic information in the grade**</mark> and creates what author Susan Brookhart calls “grade fog” — we’re not sure what the grade means because we’re asking it to communicate too much unrelated information. For example, if a student who writes an A-quality essay but hands it in late gets her assignment downgraded to a B, and a student who writes a B-quality essay turned in by the deadline receives a B, then there’s nothing to distinguish those two B grades, although those students have very different levels of content mastery.  Therefore, work will typically be accepted late as long as the work is still relevant to what students are learning in class — for example during the current unit, and it’s still the same grading quarter during which it was assigned.
+
+## Practice and time management
+
+> Even though scores will not reflect the timeliness of work submission, <mark>**teachers will still communicate deadlines and due dates for assignments and expect students to meet those timelines whenever possible.**</mark>  Teachers will communicate with students and caregivers if there is a concern about a student not completing their work in a timely manner. <mark>**Additionally, teachers will frequently emphasize the connection between practice and performance.**</mark>
+
+## Retakes, redos, and revisions
+
+> <mark>**Most of the time, if a student is not satisfied with their score on performance work, they will have an opportunity to try again through a retake, redo, or revision.  In fact, teachers will expect students to do a retake, redo, or revision if they do not do well on performance work.  Before a second attempt, students will need to engage in additional practice and/or receive teacher support to help them better understand the content/skills.  Teachers will factor the score from their highest level of performance with a skill — or skill set — toward the term grade.**</mark>
+
+## How term grades will be calculated
+
+> I teach seventh and eighth grade English Language Arts at Lawrence.  I’m going to talk about how term grades will be calculated, and review the grading practices we’ve outlined in this video.  
+>
+> In order to determine the letter grade that will appear on a child’s report card, <mark>**scores on performance work throughout a term will be added together and divided by the number of scores included to find an average letter grade equivalency.**</mark>  
+>
+> So, <mark style="background-color: #f9987c">**for example, if a student’s scores on performance work in a course during the term are `3`, `4`, `3`, `3`, `2`, and `3`, then the total of those scores - `18` - is divided by the number of scores - `6` - to arrive at the average of `3.0` which equates to a B.**</mark>
+>
+> Canvas is set to calculate these averages and convert them to letter grades, and that information will be available to students and caregiver observers in Canvas after the first few weeks of each term — once there are enough grades to calculate a meaningful average.  
+>
+> <mark style="background-color: #f9987c">**Notice that percentages and fractions are not relevant to our grading system.**</mark>  A 3 is simply a stand-in for a B or Proficient; it does not represent a 3 out of 4 possible points, which as a fraction would be a 75%. Again, Canvas has been set to interpret these scores as stand-ins for the letter grades and to calculate averages based on those equivalents rather than on fractions and percentages.  <mark>**Any fractions and percentages shown in Canvas should be ignored as only letter grades and proficiency descriptors will accurately represent a student’s achievement.**</mark>
+
+## Summary
+
+> So, to review,  the grading practices that we are using in the middle school grades at Lawrence include the following:
+>
+> - A 4 point scale will be used — with each number representing a level of proficiency.
+> - Term grades will be based mostly on performance work rather than practice work.
+> - Practice work will be tracked in Canvas separately from performance work.
+> - Typically, late work will be accepted during the same unit and term it was assigned with no score reduction.
+> - Retakes, redos, and revisions of performances work will be allowed and sometimes even expected.
+> - Behaviors — such as participation, effort, and conduct — will not be reflected in the grade or assessed with a score, but rather teachers will communicate about a student’s classroom experiences and work completion through verbal and/or written communication as needed.
+
+
+## References
+
+> The grading practices we are using in the middle school at Lawrence are based on the book _Grading for Equity_ by Joe Feldman.  
+>
+> To read an article about these grading practices in Harvard’s Graduate School of Education magazine, search for: “[Grade Expectations: Why we need to rethink grading in our schools” by Lory Hough](https://www.gse.harvard.edu/news/ed/19/05/grade-exapectations).  To listen to a podcast, search for:  “Harvard EdCast: Grading for Equity”
+>
+>If you have a general question about these grading practices, please reach out to your child’s advisory teacher or [the] Principal.  If you have a course specific question, please reach out to the teacher of that course.  Our emails are _redacted_.
+>
+> We hope this video was informative and useful.  The entire middle school faculty and administration is looking forward to a fantastic year of learning and joy with our students.  Thanks for watching!
+
+
+
+
+
+# Appendix B: _Grading for Equity_
 
 ## _Grading for Equity_: Minimum Grading (complete chapter)
 
