@@ -6,7 +6,7 @@ In this paper I outline both my questions and criticisms, namely:
 
 
 - [The 0-100 scale IS NOT oriented toward failure](#The-0-100-scale-IS-NOT-oriented-toward-failure)
-- [A 0-4 scale DOES NOT shift student's perception away from the idea that the goal of coursework is to accrue points](#A-0-4-scale-DOES-NOT-shift-student's-perception-away-from-the-idea-that-the-goal-of-course-work-is-to-accrue-points)
+- [A 0-4 scale DOES NOT shift student's perception away from the idea that the goal of coursework is to accrue points](#a-0-4-scale-does-not-shift-students-perception-away-from-the-idea-that-the-goal-of-course-work-is-to-accrue-points)
 - [A 0-4 scale DRASTICALLY REDUCES RESOLUTION in the range most students score](#A-0-4-scale-DRASTICALLY-REDUCES-RESOLUTION-in-the-range-most-students-score)
 
 
