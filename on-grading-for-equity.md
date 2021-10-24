@@ -7,14 +7,14 @@ In this paper I outline both my questions and criticisms, namely:
 
 - [The 0-100 scale IS NOT oriented toward failure](#The-0-100-scale-IS-NOT-oriented-toward-failure)
 - [A 0-4 scale DOES NOT shift student's perception away from the idea that the goal of coursework is to accrue points](#A-0-4-scale-DOES-NOT-shift-student's-perception-away-from-the-idea-that-the-goal-of-course-work-is-to-accrue-points)
-- [A 0-4 scale DRASTICALLY REDUCES RESOLUTION in the range most students score](#A-0-4-scale-DRASTICALLY-REDUCES-RESOLUTION-in-the-range-most-students-score.)
+- [A 0-4 scale DRASTICALLY REDUCES RESOLUTION in the range most students score](#A-0-4-scale-DRASTICALLY-REDUCES-RESOLUTION-in-the-range-most-students-score)
 
 
 First, the scale itself:
 
-![0-4_scale.jpg](attachment:0-4_scale.jpg)
+![0-4_scale.jpg](0-4_scale.jpg)
 
-![scale_comparison.jpg](attachment:scale_comparison.jpg)
+![scale_comparison.jpg](scale_comparison.jpg)
 
 # Clarifying questions
 
@@ -172,19 +172,7 @@ quiz_scores
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -323,8 +311,6 @@ quiz_scores
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 ## Traditional scale
@@ -345,20 +331,6 @@ quiz_scores
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -508,7 +480,6 @@ quiz_scores
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -539,20 +510,7 @@ quiz_scores
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -713,8 +671,6 @@ quiz_scores
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 ## 0-4 scale
@@ -741,20 +697,7 @@ quiz_scores_zf
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -893,7 +836,7 @@ quiz_scores_zf
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -908,20 +851,7 @@ quiz_scores_zf
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1071,7 +1001,7 @@ quiz_scores_zf
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -1093,20 +1023,6 @@ quiz_scores_zf
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1267,8 +1183,6 @@ quiz_scores_zf
     </tr>
   </tbody>
 </table>
-</div>
-
 
 
 ### Compare with traditional
@@ -1283,20 +1197,7 @@ quiz_scores
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1479,7 +1380,7 @@ quiz_scores
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -1506,20 +1407,7 @@ quiz_scores_m
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1658,7 +1546,6 @@ quiz_scores_m
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -1671,21 +1558,6 @@ quiz_scores_m
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1846,7 +1718,7 @@ quiz_scores_m
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -1862,20 +1734,7 @@ quiz_scores
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2080,7 +1939,7 @@ quiz_scores
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -2094,20 +1953,7 @@ quiz_scores
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2312,7 +2158,7 @@ quiz_scores
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
