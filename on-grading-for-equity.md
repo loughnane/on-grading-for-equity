@@ -2,17 +2,25 @@ My children's middle school has recently decided to change the way they grade. T
 
 I agree with many of the changes. Others, though they give me pause, I judge best left to the teacher's discretion. There is only one clearly objectionable element: the proposed in grading scale. 
 
-In this paper I outline both my questions and criticisms. First, the scale itself:
+In this paper I outline both my questions and criticisms, namely:
 
-![0-4_scale.jpg](0-4_scale.jpg)
 
-![scale_comparison.jpg](scale_comparison.jpg)
+- [The 0-100 scale IS NOT oriented toward failure](#The-0-100-scale-IS-NOT-oriented-toward-failure)
+- [A 0-4 scale DOES NOT shift student's perception away from the idea that the goal of coursework is to accrue points](#A-0-4-scale-DOES-NOT-shift-student's-perception-away-from-the-idea-that-the-goal-of-course-work-is-to-accrue-points)
+- [A 0-4 scale DRASTICALLY REDUCES RESOLUTION in the range most students score](#A-0-4-scale-DRASTICALLY-REDUCES-RESOLUTION-in-the-range-most-students-score.)
+
+
+First, the scale itself:
+
+![0-4_scale.jpg](attachment:0-4_scale.jpg)
+
+![scale_comparison.jpg](attachment:scale_comparison.jpg)
 
 # Clarifying questions
 
 As I write this I am still collecting facts to determine if a problem even exists. To that end, I want to lay out some questions I have so they can be explicitly answered.
 
-## What ar the boundaries  on the 0-4 scale?
+## What are the boundaries  on the 0-4 scale?
 
 
 Looking at the scale above I see the following bins in the 0-4 scale
@@ -55,6 +63,9 @@ The average is now `19`/`6` = `3.1667`. Now there must be decimal precision at t
 So I return to my point above; **are the bins I describe correct, or no?** In the sections that follow I assume that I am correct.
 
 
+## Is a `1` or a `2` "passing"?
+
+
 # Points of dissent
 
 ## The 0-100 scale _IS NOT_ oriented toward failure
@@ -94,16 +105,11 @@ Most of the people likely to read this have been to colleges that use such a GPA
 
 I'll say no more about this.
 
-## A 0-4 scale DOES harm students
-
-The 0-4 scale does three things.
-
-
-###  It drastically reduces resolution in the range most students score.
+##  A 0-4 scale DRASTICALLY REDUCES RESOLUTION in the range most students score.
 
 Most students pass. Feldman often cites a work by Carifio & Carey (see "Minimum Grading" chapter in Appendix) that shows "Mill City High School" students, on average pass 75.9%, fail 18.2% , and withdraw from 5.9% of their classes.
 
-A 0-4 scale has only **two** levels for passing grades. Such coarse resolution is antithetical to communicating mastery.
+A 0-4 scale has only **two** levels for "passing" grades. Such coarse resolution is antithetical to communicating mastery.
 
 |scale      | total resolution | failing resolution |  passing resolution | labels |
 |-----------|------------------|--------------------|---------------------|--------|
@@ -113,9 +119,7 @@ A 0-4 scale has only **two** levels for passing grades. Such coarse resolution i
 |0-100      | 101              | 60                 | 40                  |0-100 |
 
 
-### It lowers the bar
-
-Put simply, I understand that:
+Put another way
 
 - What was once a grade `A` is now a grade `A`
 - What was once a grade `B` is now a grade `A`
@@ -128,7 +132,7 @@ In the table below, taken from Feldman's book, he indicates that:
 - 20% of the scores (presumably `0` ) represent failure.
 - 40% of the scores (presumably `4` and `3`) represent meeting the standard
 
-Conspicously left out of the table are `1` (`Beginning`) and `2` (`Developing`).  Though they are without a label, the -`ing` at the end betrays that it is not a adequately complete state. I understand this to mean that it _does not_ meet the standard.
+Conspicously left out of the table are `1` (`Beginning`) and `2` (`Developing`).  Though they are without a label, the -`ing` at the end betrays that it is not an adequately complete state. I understand this to mean that it _does not_ meet the standard.
 
 | |Number of Gradations  | Scores that represent failing    | Percentage of scores representing failing   |  Scores that represnt meeting standards (B or Above)  | Percentage of scale representing scores of meeting standard   |   
 |---|---|---|---|---|---|
@@ -140,9 +144,6 @@ Conspicously left out of the table are `1` (`Beginning`) and `2` (`Developing`).
 ## Why not a minimum grading scheme?
 
 Feldman seems to advocate most strongly for a minimum grading scheme. I find little in it objectionable and nothing nearly so much as I do in the 0-4 scale. Was this considered and decided against or not considered at all?
-
-## Is a `1` or a `2` "passing"?
-
 
 # Example: A comparison of grading scales
 
@@ -179,7 +180,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -353,7 +354,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -547,7 +548,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -749,7 +750,7 @@ quiz_scores_zf
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -916,7 +917,7 @@ quiz_scores_zf
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1101,7 +1102,7 @@ quiz_scores_zf
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1291,7 +1292,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1514,7 +1515,7 @@ quiz_scores_m
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1680,7 +1681,7 @@ quiz_scores_m
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -1870,7 +1871,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
@@ -2102,7 +2103,7 @@ quiz_scores
     .dataframe tbody tr th {
         vertical-align: top;
     }
-    
+
     .dataframe thead th {
         text-align: right;
     }
